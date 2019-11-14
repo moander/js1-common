@@ -7,3 +7,11 @@ export { default as isEqual } from 'lodash.isequal'
 export { default as defaultsDeep } from 'lodash.defaultsdeep'
 
 export { default as isFunction } from 'lodash.isfunction'
+
+export { default as getPath } from 'lodash.get'
+
+export { default as hasPath } from 'lodash.has'
+
+export { default as setPath } from 'lodash.set'
+
+export { default as unsetPath } from 'lodash.unset'

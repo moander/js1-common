@@ -1,6 +1,6 @@
 {
   "name": "@moander/js1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "js1-common",
   "main": "index.js",
   "repository": "https://github.com/moander/js1-common",
@@ -13,9 +13,13 @@
   "dependencies": {
     "lodash.clonedeep": "^4.5.0",
     "lodash.defaultsdeep": "^4.6.1",
+    "lodash.get": "^4.4.2",
+    "lodash.has": "^4.5.2",
     "lodash.isequal": "^4.5.0",
     "lodash.isfunction": "^3.0.9",
+    "lodash.set": "^4.3.2",
     "lodash.sortby": "^4.7.0",
+    "lodash.unset": "^4.5.2",
     "ulid": "^2.3.0"
   }
 }
